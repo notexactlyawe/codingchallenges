@@ -1,0 +1,240 @@
+from gifts9 join contributions5
+p1 0.06540697674418605
+p2 0.03347840642785403
+k (keywidth):  1
+FPRAS ran in 78.0314 seconds
+from gifts7 join contributions12
+p1 0.051622418879056046
+p2 0.06980990226613683
+k (keywidth):  1
+FPRAS ran in 84.5057 seconds
+from gifts1 join contributions13
+p1 0.007716049382716049
+p2 0.07477833564790086
+k (keywidth):  1
+FPRAS ran in 75.7801 seconds
+from gifts5 join contributions3
+p1 0.0374251497005988
+p2 0.02257081593499605
+k (keywidth):  1
+FPRAS ran in 74.2249 seconds
+from gifts12 join contributions13
+p1 0.08534850640113797
+p2 0.07477833564790086
+k (keywidth):  1
+FPRAS ran in 75.4848 seconds
+from gifts15 join contributions10
+p1 0.10445682451253482
+p2 0.05971121485180762
+k (keywidth):  1
+FPRAS ran in 75.5753 seconds
+from gifts2 join contributions11
+p1 0.015313935681470138
+p2 0.06478781988986071
+k (keywidth):  1
+FPRAS ran in 76.4933 seconds
+from gifts1 join contributions13
+p1 0.007716049382716049
+p2 0.07477833564790086
+k (keywidth):  1
+FPRAS ran in 74.3491 seconds
+from gifts4 join contributions8
+p1 0.030165912518853696
+p2 0.04939084622983207
+k (keywidth):  1
+FPRAS ran in 76.9895 seconds
+from gifts7 join contributions9
+p1 0.051622418879056046
+p2 0.05457919441109049
+k (keywidth):  1
+FPRAS ran in 75.3117 seconds
+from gifts15 join contributions9
+p1 0.10445682451253482
+p2 0.05457919441109049
+k (keywidth):  1
+FPRAS ran in 74.2228 seconds
+from gifts5 join contributions3
+p1 0.0374251497005988
+p2 0.02257081593499605
+k (keywidth):  1
+FPRAS ran in 74.6971 seconds
+from gifts12 join contributions12
+p1 0.08534850640113797
+p2 0.06980990226613683
+k (keywidth):  1
+FPRAS ran in 73.9721 seconds
+from gifts13 join contributions1
+p1 0.09180790960451977
+p2 0.01141422212076247
+k (keywidth):  1
+FPRAS ran in 74.9024 seconds
+from gifts5 join contributions7
+p1 0.0374251497005988
+p2 0.04414523783246882
+k (keywidth):  1
+FPRAS ran in 75.0158 seconds
+from gifts13 join contributions3
+p1 0.09180790960451977
+p2 0.02257081593499605
+k (keywidth):  1
+FPRAS ran in 74.5009 seconds
+from gifts6 join contributions7
+p1 0.04457652303120357
+p2 0.04414523783246882
+k (keywidth):  1
+FPRAS ran in 74.8231 seconds
+from gifts9 join contributions5
+p1 0.06540697674418605
+p2 0.03347840642785403
+k (keywidth):  1
+FPRAS ran in 75.5628 seconds
+from gifts10 join contributions8
+p1 0.07215007215007214
+p2 0.04939084622983207
+k (keywidth):  1
+FPRAS ran in 74.8539 seconds
+from gifts8 join contributions5
+p1 0.05856515373352855
+p2 0.03347840642785403
+k (keywidth):  1
+FPRAS ran in 75.4328 seconds
+from gifts1 join contributions10
+p1 0.007716049382716049
+p2 0.05971121485180762
+k (keywidth):  1
+FPRAS ran in 75.9336 seconds
+from gifts2 join contributions2
+p1 0.015313935681470138
+p2 0.017024174327545116
+k (keywidth):  1
+FPRAS ran in 75.8261 seconds
+from gifts7 join contributions6
+p1 0.051622418879056046
+p2 0.0388414160470536
+k (keywidth):  1
+FPRAS ran in 75.3384 seconds
+from gifts11 join contributions4
+p1 0.07879656160458452
+p2 0.028055212658511953
+k (keywidth):  1
+FPRAS ran in 74.4937 seconds
+from gifts3 join contributions12
+p1 0.022796352583586626
+p2 0.06980990226613683
+k (keywidth):  1
+FPRAS ran in 75.8437 seconds
+from gifts2 join contributions6
+p1 0.015313935681470138
+p2 0.0388414160470536
+k (keywidth):  1
+FPRAS ran in 79.5523 seconds
+from gifts5 join contributions10
+p1 0.0374251497005988
+p2 0.05971121485180762
+k (keywidth):  1
+FPRAS ran in 75.7359 seconds
+from gifts8 join contributions8
+p1 0.05856515373352855
+p2 0.04939084622983207
+k (keywidth):  1
+FPRAS ran in 75.1312 seconds
+from gifts15 join contributions12
+p1 0.10445682451253482
+p2 0.06980990226613683
+k (keywidth):  1
+FPRAS ran in 76.6068 seconds
+from gifts12 join contributions5
+p1 0.08534850640113797
+p2 0.03347840642785403
+k (keywidth):  1
+FPRAS ran in 76.2227 seconds
+from gifts10 join contributions9
+p1 0.07215007215007214
+p2 0.05457919441109049
+k (keywidth):  1
+FPRAS ran in 74.3246 seconds
+from gifts10 join contributions7
+p1 0.07215007215007214
+p2 0.04414523783246882
+k (keywidth):  1
+FPRAS ran in 75.2958 seconds
+from gifts9 join contributions12
+p1 0.06540697674418605
+p2 0.06980990226613683
+k (keywidth):  1
+FPRAS ran in 75.2899 seconds
+from gifts7 join contributions10
+p1 0.051622418879056046
+p2 0.05971121485180762
+k (keywidth):  1
+FPRAS ran in 76.9091 seconds
+from gifts3 join contributions2
+p1 0.022796352583586626
+p2 0.017024174327545116
+k (keywidth):  1
+FPRAS ran in 74.4054 seconds
+from gifts12 join contributions6
+p1 0.08534850640113797
+p2 0.0388414160470536
+k (keywidth):  1
+FPRAS ran in 76.7773 seconds
+from gifts1 join contributions9
+p1 0.007716049382716049
+p2 0.05457919441109049
+k (keywidth):  1
+FPRAS ran in 74.0623 seconds
+from gifts13 join contributions13
+p1 0.09180790960451977
+p2 0.07477833564790086
+k (keywidth):  1
+FPRAS ran in 76.7858 seconds
+from gifts15 join contributions1
+p1 0.10445682451253482
+p2 0.01141422212076247
+k (keywidth):  1
+FPRAS ran in 75.8897 seconds
+from gifts11 join contributions9
+p1 0.07879656160458452
+p2 0.05457919441109049
+k (keywidth):  1
+FPRAS ran in 75.8615 seconds
+from gifts14 join contributions4
+p1 0.09817671809256662
+p2 0.028055212658511953
+k (keywidth):  1
+FPRAS ran in 76.7372 seconds
+from gifts15 join contributions6
+p1 0.10445682451253482
+p2 0.0388414160470536
+k (keywidth):  1
+FPRAS ran in 76.2663 seconds
+from gifts14 join contributions10
+p1 0.09817671809256662
+p2 0.05971121485180762
+k (keywidth):  1
+FPRAS ran in 76.1472 seconds
+from gifts4 join contributions4
+p1 0.030165912518853696
+p2 0.028055212658511953
+k (keywidth):  1
+FPRAS ran in 76.1471 seconds
+from gifts8 join contributions2
+p1 0.05856515373352855
+p2 0.017024174327545116
+k (keywidth):  1
+FPRAS ran in 75.5167 seconds
+from gifts14 join contributions4
+p1 0.09817671809256662
+p2 0.028055212658511953
+k (keywidth):  1
+FPRAS ran in 77.1769 seconds
+from gifts14 join contributions11
+p1 0.09817671809256662
+p2 0.06478781988986071
+k (keywidth):  1
+FPRAS ran in 75.4831 seconds
+from gifts13 join contributions8
+p1 0.09180790960451977
+p2 0.04939084622983207
+k (keywidth):  1
+FPRAS ran in 78.3055 seconds
